@@ -13,7 +13,5 @@ import "./SizeOf.sol";
 
 contract Seriality is BytesToTypes, TypesToBytes, SizeOf {
 
-    constructor() public {
-
-    }
+    constructor() {}
 }
